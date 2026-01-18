@@ -1,0 +1,35 @@
+# Data folders
+02_data/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.json
+*.txt
+
+# Compressed files
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.ckpt
+
+# Logs and outputs
+logs/
+outputs/
+results/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
